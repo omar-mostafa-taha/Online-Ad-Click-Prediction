@@ -21,7 +21,7 @@ We implemented several classification models:
 
 ## Conclusion
 
-Each model was trained and evaluated to determine its performance. The best estimator is Support Vector Classifier with f1 score of 0.967 on training set and 0.98 on test set.
-Daily internet usage and Daily time spent on site have very strong negative correlation with the target.
-Age and Area income have moderate positive correlation with the target.
-Gender has no effect on the target.
+- Each model was trained and evaluated to determine its performance. The best estimator is Support Vector Classifier with f1 score of 0.967 on training set and 0.98 on test set.
+- Daily internet usage and Daily time spent on site have very strong negative correlation with the target.
+- Age and Area income have moderate positive correlation with the target.
+- Gender has no effect on the target.
